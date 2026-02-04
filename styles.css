@@ -4,8 +4,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("heart-bg.jpg");
-    font-family: "Pixelify Sans", sans-serif;
+    background-image: url("heart-bg.png");
+    font-family: "SN Pro", sans-serif;
 }
 
 /* Envelop Screen */
@@ -80,6 +80,7 @@ h1{
 
 p{
     font-size: 40px;
+    background-color: rgba(224, 240, 240, 0.75);
 
 }
 
